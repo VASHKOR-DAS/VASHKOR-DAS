@@ -1,10 +1,11 @@
 <!-- Intro  -->
 
 <h2 align="center">
- > Hey 👋 there! , I am
+ <samp>&gt; Hey 👋 there! , I am
   <b>
     <a target="_blank" href="https://vashkordas.netlify.app/">Vashkor Das</a>
-  </b>   
+  </b>
+  </samp>
 </h2>
 <br />
 
@@ -34,25 +35,22 @@
 
 <h1 align="center">👨‍💻 About Me</h1>
 
-🌱 I’m currently learning <strong style="color: red"> React Native , Aws , Docker , Load balancing.</strong>
+🌱 I’m currently learning <strong> React Native , Aws , Docker , Load balancing.</strong>
 
 👨‍💻 All of my projects are available at <strong> <a href='https://vashkordas.netlify.app/'>Vashkor Das</a> </strong>
 
 📧 Reach me anytime <strong> <a href="mailto:vashkordas@gmail.com" target="_blank" rel="noopener">vashkordas@gmail.com</a> </strong>
 
-⚡ Fun fact is <strong style="color: yellow">I love errors. It teaches me the more details. </strong>
+⚡ Fun fact is <strong>I love errors. It teaches me the more details. </strong>
 
 <br/>
 <br/>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <div>  
-    <img
-        src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+<h1 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
         width='40' />
-  </div>  
-  <h1>Tech Stack</h1>
-</div>
+  Tech Stack
+</h1>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -81,12 +79,12 @@
 <br/>
 <br/>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <div>
-      <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="40"/>
-    </div>
-    <h1>Github Status</h1>
-</div>
+
+<h1 align="center">
+  <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="40"/>
+    Github Status
+</h1>
+
 
 <div align="center">
   <a href="https://github.com/vashkor-das">
